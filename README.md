@@ -2,7 +2,7 @@
 
 # HitPlanRenamer
 
-A **Fallout 4 F4SE** helper plugin to rename known plans for Hitman’s Fallout 76 settlement object port.  
+A **Fallout 4 F4SE** helper plugin to rename known plans for Hitman’s Fallout 76 settlement object mod.  
 It provides utilities for removing or re-applying a “known” prefix (`"(Known) - "`) to plans, as well as storing and restoring known-plan states across saves.
 
 ---
